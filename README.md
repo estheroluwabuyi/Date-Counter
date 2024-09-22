@@ -1,1 +1,1 @@
-# Simple Date Counter Web App
+# A Simple Date Counter Web App with React.
